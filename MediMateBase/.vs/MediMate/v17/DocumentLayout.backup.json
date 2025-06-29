@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|c:\\users\\ullah\\downloads\\medimatebase\\medimatebase\\manage_dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|solutionrelative:manage_dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|c:\\users\\ullah\\downloads\\medimatebase\\medimatebase\\manage_dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|solutionrelative:manage_dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|c:\\users\\ullah\\downloads\\medimatebase\\medimatebase\\patient_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|solutionrelative:patient_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|c:\\users\\ullah\\downloads\\medimatebase\\medimatebase\\patient_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD83320-957D-451A-9D3B-357157D77897}|MediMate.csproj|solutionrelative:patient_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Patient_Dashboard.cs",
+              "RelativeDocumentMoniker": "Patient_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Patient_Dashboard.cs",
+              "RelativeToolTip": "Patient_Dashboard.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:25:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Patient_Dashboard.cs",
+              "RelativeDocumentMoniker": "Patient_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Patient_Dashboard.cs [Design]",
+              "RelativeToolTip": "Patient_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:25:10.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage_Dosage.cs",
+              "DocumentMoniker": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Manage_Dosage.cs",
+              "RelativeDocumentMoniker": "Manage_Dosage.cs",
+              "ToolTip": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Manage_Dosage.cs",
+              "RelativeToolTip": "Manage_Dosage.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:17:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage_Dosage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Manage_Dosage.cs",
+              "RelativeDocumentMoniker": "Manage_Dosage.cs",
+              "ToolTip": "C:\\Users\\ullah\\Downloads\\MediMateBase\\MediMateBase\\Manage_Dosage.cs [Design]",
+              "RelativeToolTip": "Manage_Dosage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:16:58.805Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

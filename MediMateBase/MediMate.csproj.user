@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage_Dosage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicine_Inventory_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientSignupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patient_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminSignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacists_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
